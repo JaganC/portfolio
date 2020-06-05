@@ -1,0 +1,15 @@
+.iconStyle{
+    width: 10em;
+    height: 10em;
+    color: #383a3e;
+    left: 25%;
+    position: relative;
+}
+.smallLogo{
+    width: 40px;
+    height: 40px;
+    padding: 6px 5px;
+}
+.linkStyle{
+    padding: 6px 5px;
+}

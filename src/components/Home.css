@@ -1,0 +1,16 @@
+.welcomeText{
+    font-size: 10em;
+    text-align: center;
+}
+.center{
+    text-align: center;
+}
+.subTextFont{
+    font-size: 4em;
+}
+
+.locationInfo{
+    float: right;
+    margin-right: 5%;
+    cursor: pointer;
+}
